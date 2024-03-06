@@ -124,7 +124,7 @@
                     </div>
 
                     <div class="text-center text-sm text-gray-500 dark:text-gray-400 sm:text-right sm:ml-0">
-                        Suaybaguio, Carlo Dominic M. - 3R2
+                        Suaybaguio, Carlo Dominic M. | BSIT-3R2
                     </div>
                 </div>
             </div>
